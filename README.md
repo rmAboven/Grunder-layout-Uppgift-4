@@ -2,6 +2,6 @@
 
 https://rmaboven.github.io/Grunder-layout-Uppgift-4/
 
-##Grunder Layout
+## Grunder Layout
 
 HTML och CSS filen klarar valideringen utan några errors.
